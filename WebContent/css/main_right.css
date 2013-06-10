@@ -1,6 +1,17 @@
 @CHARSET "UTF-8";
 
 
+.right_box_1 {
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+
+.right_box_2 {
+	margin: 10px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+
 .right_heading_1 {
 	font-family: LinBioB;
 	font-size: 22px;
@@ -22,6 +33,17 @@
 	text-align: justify;
 	background-color: rgba(255,255,255,0.8);
 }
+
+.right_ul {
+	margin: 0px;
+	margin-left: -15px;
+}
+
+.right_li {
+	text-align: left;
+	padding: 3px;
+}
+
 
 .right_link:link, .right_link:visited {
 	font-family: LinLib;

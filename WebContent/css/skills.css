@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+
+.skills_box_subheading_1 {
+	font-family: LinBio;
+	font-size: 18px;
+	color: #84221e;
+	float: left;
+}
+
+.skills_box_subheading_2 {
+	font-family: LinBio;
+	font-size: 18px;
+	color: #c68328;
+	float: left;
+}
